@@ -42,7 +42,6 @@ Repozytorium zawiera następujące pliki w formacie StarDict:
 
 ## Konwersja
 
-*   Konwersji do formatu StarDict dokonał: [**ciahciach**](https://github.com/ciahciach) (czyli Ty!)
 *   Użyte narzędzie: [PyGlossary](https://github.com/ilius/pyglossary)
 
 ## Wesprzyj oryginalnego autora
